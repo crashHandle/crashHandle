@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @crashHandle
+- 👀 I’m interested in small projects to improve my skills in core technologies like C# and .Net,
+- 🌱 I’m currently learning 'm currently learning a programming language like C# and learning how to use the .Net framework,
+- 💞️ I’m looking to collaborate on with small groups from all areas from back to front-end who are interested in hiring a developer,
+- 📫 Contact: weslembsilva@outlook.com
